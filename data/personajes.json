@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "Naruto Uzumaki",
+        "aldea": "Konoha",
+        "clan": "Uzumaki",
+        "rango": "Genin/ Hokage",
+        "descripcion": "ninja altamente reconocido en el mundo shinobi",
+        "imagen": "img/personajes/naruto.jpg",
+        "color": "#ff9800"
+    },
+    {
+        "id": 2,
+        "nombre": "Sasuke Uchiha",
+        "aldea": "Konoha",
+        "clan": "Uchiha",
+        "rango": "Genin/ Emo vengador",
+        "descripcion": "poseedor del sharingan y rinnegan: el hokage de las sombras",
+        "imagen": "img/personajes/sasuke.jpg",
+        "color": "#3f51b5"
+    },
+    {
+        "id": 3,
+        "nombre": "Gaara",
+        "aldea": "Arena",
+        "clan": "Nl",
+        "rango": "Kazekage",
+        "descripcion": "amigo de naruto y kazekage de sunagakure",
+        "imagen": "img/personajes/gaara.jpg",
+        "color": "#3f51b5"
+    }
+]
