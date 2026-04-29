@@ -1,6 +1,14 @@
-body {
-    background-color: black;
-    color: aliceblue;
+@media (prefers-color-scheme: dark) {
+    body {
+        background: rgb(32, 32, 32);
+    }
+}
+
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: #ffffff;
+        color: #000000;
+    }
 }
 
 .grid-personajes {
@@ -27,7 +35,6 @@ body {
     transition: transform 0.6s;
     transform-style: preserve-3d;
     /* Mantiene el 3D en los hijos */
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
     border-radius: 10px;
 }
 
@@ -46,6 +53,7 @@ body {
     /* Oculta la cara que queda atrás */
     border-radius: 10px;
     display: flex;
+    padding-bottom: 2rem;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -69,7 +77,6 @@ body {
     background-color: #d3a50e;
     color: white;
     transform: rotateY(180deg);
-    padding: 15px;
     display: flex;
     flex-direction: column;
 }
