@@ -74,7 +74,7 @@
 
 /* 6. Cara Trasera (Girada 180 grados por defecto) */
 .flip-card-back {
-    background-color: #d3a50e;
+    background-color: #192449;
     color: white;
     transform: rotateY(180deg);
     display: flex;

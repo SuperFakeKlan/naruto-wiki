@@ -21,6 +21,16 @@
     },
     {
         "id": 3,
+        "nombre": "Sakura Haruno",
+        "aldea": "Konoha",
+        "clan": "Haruno",
+        "rango": "Genin/ Medica",
+        "descripcion": "ninja medica y experta en taijutsu, miembro del equipo 7",
+        "imagen": "img/personajes/sakura.jpg",
+        "color": "#e91e63"
+    },
+    {
+        "id": 4,
         "nombre": "Gaara",
         "aldea": "Arena",
         "clan": "Nl",
